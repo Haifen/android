@@ -213,5 +213,5 @@
   <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" >
     <copyfile src="bootimage/Android.mk" dest="kernel/Android.mk" />
   </project>
-  <project path="kernel/samsung/msm8930-common" project="CyanogenMod/android_kernel_samsung_msm8930-common" />
+  <project path="kernel/samsung/msm8930-common" name="CyanogenMod/android_kernel_samsung_msm8930-common" />
 </manifest>
