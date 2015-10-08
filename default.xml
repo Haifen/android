@@ -48,6 +48,12 @@
   <project path="device/samsung/msm8930-common" name="CyanogenMod/android_device_samsung_msm8930-common" groups="device" />
   <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" groups="device" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
+  <project path="external/apache-http" name="CyanogenMod/android_external_apache-http" />
+  <project path="external/junit" name="CyanogenMod/android_external_junit" />
+  <project path="external/libphonenumber" name="CyanogenMod/android_external_libphonenumber" />
+  <project path="external/nist-sip" name="CyanogenMod/android_external_nist-sip" />
+  <project path="external/stlport" name="CyanogenMod/android_external_stlport" groups="pdk" />
+  <project path="external/tagsoup" name="CyanogenMod/android_external_tagsoup" />
   <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" groups="pdk" />
   <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" />
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" groups="pdk" />
