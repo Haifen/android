@@ -44,6 +44,7 @@
   <project path="device/google/accessory/demokit" name="CyanogenMod/android_device_google_accessory_demokit" groups="device" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" groups="device" />
   <project path="device/samsung/serrano3gxx" name="CyanogenMod/android_device_samsung_serrano3gxx" groups="device" />
+  <project path="device/samsung/serrano-common" name="CyanogenMod/android_device_samsung_serrano-common" groups="device" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" groups="pdk" />
   <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" />
